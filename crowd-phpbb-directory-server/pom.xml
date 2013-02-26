@@ -28,13 +28,13 @@
         <dependency>
             <groupId>com.atlassian.crowd</groupId>
             <artifactId>crowd-api</artifactId>
-            <version>2.4.0</version>
+            <version>2.6.0</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>com.atlassian.crowd</groupId>
             <artifactId>crowd-integration-api</artifactId>
-            <version>2.4.0</version>
+            <version>2.6.0</version>
             <scope>provided</scope>
         </dependency>
     </dependencies>
@@ -52,8 +52,8 @@
     </build>
 
     <properties>
-        <crowd.version>2.4.0</crowd.version>
-        <crowd.data.version>2.4.0</crowd.data.version>
+        <crowd.version>2.6.0</crowd.version>
+        <crowd.data.version>2.6.0</crowd.data.version>
     </properties>
 
     <repositories>
